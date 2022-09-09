@@ -1,0 +1,44 @@
+{
+  "productList": [
+    {
+      "id": 1,
+      "productName": "json-server",
+      "category": "typicode"
+    },
+    {
+      "productName": "apple",
+      "category": "Fruit",
+      "id": 2
+    },
+    {
+      "productName": "Iphone",
+      "category": "smartphone",
+      "id": 3
+    },
+    {
+      "productName": "Birne",
+      "category": "Fruit",
+      "id": 4
+    }
+  ],
+  "signupusers": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "username": "lol@gmail.com",
+      "password": "lol12345",
+      "id": 2
+    },
+    {
+      "username": "Arnihan",
+      "password": "Arni26",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
